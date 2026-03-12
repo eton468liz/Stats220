@@ -13,5 +13,6 @@ An example of an *unordered list* looks like this:
 
 I frequently visit the [Free Wesleyan Churhc of Tonga](https://fwc.to/) website and the [University of Auckland](https://www.auckland.ac.nz/en.html) website. 
 
-Here is a cute cat!
+Here is a cute cat! 
+
 ![cat](https://cdn.pixabay.com/animation/2024/11/24/21/05/21-05-33-467_512.gif)
