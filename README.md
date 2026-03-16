@@ -11,7 +11,7 @@ An example of an *unordered list* looks like this:
 * Semester One
 * Semester Two
 
-I frequently visit the [Free Wesleyan Churhc of Tonga](https://fwc.to/) website and the [University of Auckland](https://www.auckland.ac.nz/en.html) website. 
+I frequently visit the [Free Wesleyan Church of Tonga](https://fwc.to/) website and the [University of Auckland](https://www.auckland.ac.nz/en.html) website. 
 
 Here is a cute cat! 
 
